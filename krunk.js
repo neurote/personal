@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name         Krunker-Temuware (BETA)
+// @name         krunkware beta
 // @namespace    http://krunker.io/
 // @version      1.0
-// @description  temuGodlikeDev
-// @author       temu
+// @description  ez krunk
+// @author       idk its me lol 
 // @match        *://krunker.io/*
 // @match        *://krunker.io/*
-// @icon         https://cdn.discordapp.com/attachments/1082000024814231722/1082000154598592633/4ff084a8758792612beb69873dcb6e76.png
+// @icon         none
 // @run-at       document-start
 // @grant        none
 // @noframes
