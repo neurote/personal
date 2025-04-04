@@ -1,2 +1,5 @@
 # personal
-new day new code. tryna improve skills.
+
+new day new code. just tryna improve skills.
+
+creating my own library.
